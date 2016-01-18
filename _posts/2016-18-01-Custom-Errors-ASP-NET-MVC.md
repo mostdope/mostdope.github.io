@@ -1,3 +1,8 @@
+---
+layout: post
+title: How to customize errors in ASP.NET MVC 5
+---
+
 ## How to customize errors using ASP.NET MVC ##
 
 1. Add an **ErrorController** to your application, and add some methods if you need.
